@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "e4ca8d8f-83a8-4d28-953c-f164da1bdba8",
+    "name": "general",
+    "description": "General chat for everyone",
+    "createdAt": "2026-05-22T21:10:23.139Z"
+  },
+  {
+    "_id": "d7f50357-80a9-499e-b475-171a80c3d122",
+    "name": "tech-talk",
+    "description": "Discuss technology & code",
+    "createdAt": "2026-05-22T21:10:23.140Z"
+  },
+  {
+    "_id": "5f1d19b5-e248-464f-8815-56c76d1cd878",
+    "name": "random",
+    "description": "Random stuff",
+    "createdAt": "2026-05-22T21:10:23.140Z"
+  },
+  {
+    "_id": "f6008aab-a2a4-4b8a-9fc7-b8921d535589",
+    "name": "gaming",
+    "description": "Gaming discussions",
+    "createdAt": "2026-05-22T21:10:23.140Z"
+  },
+  {
+    "_id": "952a6c48-cb9f-4e80-8718-139c2e3b7288",
+    "name": "music",
+    "description": "Share your music",
+    "createdAt": "2026-05-22T21:10:23.140Z"
+  },
+  {
+    "_id": "3797040b-70e6-4a46-9252-af01ef107e49",
+    "name": "noor",
+    "description": "",
+    "createdAt": "2026-05-22T21:12:23.796Z"
+  },
+  {
+    "_id": "32e3e799-a472-4616-be1d-4096621340d9",
+    "name": "123",
+    "description": "",
+    "createdAt": "2026-05-22T21:35:13.109Z"
+  }
+]
